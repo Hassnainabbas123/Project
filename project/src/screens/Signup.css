@@ -1,0 +1,23 @@
+/* Signup.css */
+
+.signup-container {
+    min-height: 100vh;
+    background-color: #f8f9fa;
+}
+
+.signup-form-container {
+    background-color: white;
+    width: 100%;
+    max-width: 400px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.sandybrown-bg {
+    background-color: sandybrown;
+    border-color: sandybrown;
+}
+
+.sandybrown-bg:hover {
+    background-color: #e39663;
+    border-color: #e39663;
+}
